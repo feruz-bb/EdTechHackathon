@@ -148,10 +148,6 @@ classvision/              ← repository root
 
 Team **Spirit of TUIT**, Build with AI Hackathon 2026
 
-- **Feruzbek Baqoyev**: [your role, e.g. computer-vision pipeline and distraction logic]
-- **[Name Surname]**: [role]
-- **[Name Surname]**: [role]
-
 ## Credits
 
 Built with MediaPipe, Ultralytics YOLOv8 and OpenCV.
